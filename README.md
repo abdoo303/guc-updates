@@ -18,7 +18,7 @@ Scans your GUC university inbox and CMS, extracts academic events using an LLM, 
 ### 1. Clone & create a virtual environment
 
 ```bash
-git clone https://github.com/your-username/guc-parser.git
+git clone https://github.com/abdoo303/guc-updates.git
 cd guc-parser
 python3 -m venv .venv
 ```
